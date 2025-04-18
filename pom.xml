@@ -11,7 +11,8 @@
     <distributionManagement>
         <repository>
             <id>vlf1e</id>
-            <url>https://maven.pkg.github.com/vlf1e/ProgSPServer</url>
+            <name>test</name>
+            <url>https://maven.pkg.github.com/vlf1e/test</url>
         </repository>
     </distributionManagement>
 
